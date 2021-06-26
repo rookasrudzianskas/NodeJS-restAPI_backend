@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rookasrudzianskas/NodeJS-restAPI_backend/issues"
   },
-  "homepage": "https://github.com/rookasrudzianskas/NodeJS-restAPI_backend#readme"
+  "homepage": "https://github.com/rookasrudzianskas/NodeJS-restAPI_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
